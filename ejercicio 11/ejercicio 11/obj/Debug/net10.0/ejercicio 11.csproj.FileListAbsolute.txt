@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\bin\Debug\net10.0\ejercicio 11.exe
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\bin\Debug\net10.0\ejercicio 11.deps.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\bin\Debug\net10.0\ejercicio 11.runtimeconfig.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\bin\Debug\net10.0\ejercicio 11.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\bin\Debug\net10.0\ejercicio 11.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\obj\Debug\net10.0\ejercicio 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\obj\Debug\net10.0\ejercicio 11.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\obj\Debug\net10.0\ejercicio 11.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\obj\Debug\net10.0\ejercicio 11.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\obj\Debug\net10.0\ejercicio 11.sourcelink.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\obj\Debug\net10.0\ejercicio 11.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\obj\Debug\net10.0\refint\ejercicio 11.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\obj\Debug\net10.0\ejercicio 11.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\obj\Debug\net10.0\ejercicio 11.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 11\ejercicio 11\obj\Debug\net10.0\ref\ejercicio 11.dll
