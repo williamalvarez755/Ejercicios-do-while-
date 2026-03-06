@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\bin\Debug\net10.0\ejercicio 18.exe
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\bin\Debug\net10.0\ejercicio 18.deps.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\bin\Debug\net10.0\ejercicio 18.runtimeconfig.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\bin\Debug\net10.0\ejercicio 18.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\bin\Debug\net10.0\ejercicio 18.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\obj\Debug\net10.0\ejercicio 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\obj\Debug\net10.0\ejercicio 18.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\obj\Debug\net10.0\ejercicio 18.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\obj\Debug\net10.0\ejercicio 18.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\obj\Debug\net10.0\ejercicio 18.sourcelink.json
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\obj\Debug\net10.0\ejercicio 18.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\obj\Debug\net10.0\refint\ejercicio 18.dll
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\obj\Debug\net10.0\ejercicio 18.pdb
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\obj\Debug\net10.0\ejercicio 18.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PENSAMIENTO\ejercicios do while\ejercicio 18\ejercicio 18\obj\Debug\net10.0\ref\ejercicio 18.dll
